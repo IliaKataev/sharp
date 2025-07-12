@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharp\\Lesson_12.07.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|d:\\sharp\\lesson_12.07.2025\\lesson_12.07.2025\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC1F571-C00D-4977-8862-66A86FDE7713}|Lesson_12.07.2025\\Lesson_12.07.2025.csproj|solutionrelative:lesson_12.07.2025\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\City.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\City.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\City.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\City.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:28:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Math.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Math.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\Math.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Math.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:23:59.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Car.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\Car.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Car.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:02:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Student.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\Student.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Student.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T08:34:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Example.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\Example.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Example.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:38:28.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_12.07.2025\\Program.cs",
+              "ToolTip": "D:\\sharp\\Lesson_12.07.2025\\Lesson_12.07.2025\\Program.cs",
+              "RelativeToolTip": "Lesson_12.07.2025\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:03:43.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
