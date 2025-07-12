@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharp\\Lesson_08_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F16AFC4-88FF-4A28-B5FC-0FCA80ADBB11}|Lesson_08_07\\Lesson_08_07.csproj|d:\\sharp\\lesson_08_07\\lesson_08_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F16AFC4-88FF-4A28-B5FC-0FCA80ADBB11}|Lesson_08_07\\Lesson_08_07.csproj|solutionrelative:lesson_08_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_08_07\\Lesson_08_07\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_08_07\\Program.cs",
+              "ToolTip": "D:\\sharp\\Lesson_08_07\\Lesson_08_07\\Program.cs",
+              "RelativeToolTip": "Lesson_08_07\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAApwPYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:06:37.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
