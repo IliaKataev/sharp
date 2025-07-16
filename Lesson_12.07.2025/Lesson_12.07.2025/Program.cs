@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Claims;
 
 namespace Lesson_12._07._2025
 {
@@ -41,6 +42,51 @@ namespace Lesson_12._07._2025
             
             City city = new City();
             city.StartBuilding();
+
+            //int i, int[] Array работа с выводом измененного массива
+            int ai = 10;
+            int[] myArr = { 1, 2, 3 };
+            Console.WriteLine("Вывод массива до вызова метода");
+            foreach(int j in myArr)
+            {
+                Console.Write(j + " ");
+            }
+
+            MyFunction(ref ai, ref myArr);
+
+            Console.WriteLine("Вывод массива после вызова метода");
+            foreach (int j in myArr)
+            {
+                Console.Write(j + " ");
+            }
+
+            int aii;
+            GetNumber(out aii);
+            Console.WriteLine($" aii = {aii}");
+
+            Console.WriteLine(Sum(new int[] {1,2,3,4,5}));
+
+
+            //Свойства. Класс SimpleMath
+            int a = 5;
+            int b = 6;
+
+            SimpleMath simpleMath = new SimpleMath(a, b);
+            Console.WriteLine(simpleMath.Get());
+            simpleMath.Set(10, 16);
+            Console.WriteLine(simpleMath.Get());
+
+            simpleMath.PrintC();
+            simpleMath.CVariable = 10;
+            simpleMath.PrintC();
+
+            simpleMath.DVariable = int.Parse(Console.ReadLine());
+            Console.WriteLine(simpleMath.DVariable);
+
+            simpleMath.DVariable = 213;
+            Console.WriteLine(simpleMath.DVariable);
+
+
         }
 
         // Метод, демонстрирующий работу со структурой без параметров
@@ -92,5 +138,43 @@ namespace Lesson_12._07._2025
                 }
             }
         }
+
+        //ref и out
+        private static void MyFunction(ref int i, ref int[] myArray)
+        {
+            Console.WriteLine("Вывод массива до изменения");
+            foreach (int j in myArray)
+            {
+                Console.Write(j + " ");
+            }
+
+            i = 100;
+            myArray = new int[] { 3, 2, 1 };
+
+            Console.WriteLine("\nВывод массива после изменения");
+            foreach (int j in myArray)
+            {
+                Console.Write(j + " ");
+            }
+        }
+
+        private static void GetNumber(out int digit)
+        {
+            digit = new Random().Next(10);
+        }
+
+        private static int Sum(int[] array)
+        {
+            int res = 0;
+            foreach(int i in array)
+            {
+                res += i;
+            }
+            return res;
+        }
+
+        private static int Sum(int a) => a + a;
+        private static int Sum(int a, int b) => a + b;
+        private static int Sum(int a, int b, int c) => a + b + c;
     }
 }

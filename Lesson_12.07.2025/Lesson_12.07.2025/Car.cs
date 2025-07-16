@@ -41,5 +41,10 @@ namespace Lesson_12._07._2025
         {
             Console.WriteLine($"{driverName}, {speed}");
         }
+
+        public Car DoStuff(Car car)
+        {
+            return this;
+        }
     }
 }

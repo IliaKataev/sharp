@@ -1,0 +1,7 @@
+D:\sharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\sharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\sharp\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\sharp\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\sharp\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\sharp\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\sharp\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
