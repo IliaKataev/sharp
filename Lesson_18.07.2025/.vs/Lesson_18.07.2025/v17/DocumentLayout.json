@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharp\\Lesson_18.07.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|d:\\sharp\\lesson_18.07.2025\\lesson_18.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|solutionrelative:lesson_18.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|d:\\sharp\\lesson_18.07.2025\\lesson_18.07.2025\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|solutionrelative:lesson_18.07.2025\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|d:\\sharp\\lesson_18.07.2025\\lesson_18.07.2025\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|solutionrelative:lesson_18.07.2025\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|d:\\sharp\\lesson_18.07.2025\\lesson_18.07.2025\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|solutionrelative:lesson_18.07.2025\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|d:\\sharp\\lesson_18.07.2025\\lesson_18.07.2025\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7345867-0BEF-42C3-85D8-6A807F1C1C55}|Lesson_18.07.2025\\Lesson_18.07.2025.csproj|solutionrelative:lesson_18.07.2025\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Shape.cs",
+              "RelativeDocumentMoniker": "Lesson_18.07.2025\\Shape.cs",
+              "ToolTip": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Shape.cs",
+              "RelativeToolTip": "Lesson_18.07.2025\\Shape.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAjwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:10:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Point.cs",
+              "RelativeDocumentMoniker": "Lesson_18.07.2025\\Point.cs",
+              "ToolTip": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Point.cs",
+              "RelativeToolTip": "Lesson_18.07.2025\\Point.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:46:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Robot.cs",
+              "RelativeDocumentMoniker": "Lesson_18.07.2025\\Robot.cs",
+              "ToolTip": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Robot.cs",
+              "RelativeToolTip": "Lesson_18.07.2025\\Robot.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:00:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Animal.cs",
+              "RelativeDocumentMoniker": "Lesson_18.07.2025\\Animal.cs",
+              "ToolTip": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Animal.cs",
+              "RelativeToolTip": "Lesson_18.07.2025\\Animal.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:15:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_18.07.2025\\Program.cs",
+              "ToolTip": "D:\\sharp\\Lesson_18.07.2025\\Lesson_18.07.2025\\Program.cs",
+              "RelativeToolTip": "Lesson_18.07.2025\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:13:24.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
