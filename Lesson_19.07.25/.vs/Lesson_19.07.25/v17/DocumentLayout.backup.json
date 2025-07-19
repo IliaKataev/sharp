@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharp\\Lesson_19.07.25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|d:\\sharp\\lesson_19.07.25\\lesson_19.07.25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|solutionrelative:lesson_19.07.25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|d:\\sharp\\lesson_19.07.25\\lesson_19.07.25\\iremotecontrollable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|solutionrelative:lesson_19.07.25\\iremotecontrollable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|d:\\sharp\\lesson_19.07.25\\lesson_19.07.25\\ipriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|solutionrelative:lesson_19.07.25\\ipriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|d:\\sharp\\lesson_19.07.25\\lesson_19.07.25\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|solutionrelative:lesson_19.07.25\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|d:\\sharp\\lesson_19.07.25\\lesson_19.07.25\\devicecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBEEE5E-6B39-4DFE-942D-6D6F1F6380F2}|Lesson_19.07.25\\Lesson_19.07.25.csproj|solutionrelative:lesson_19.07.25\\devicecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPriority.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IPriority.cs",
+              "RelativeDocumentMoniker": "Lesson_19.07.25\\IPriority.cs",
+              "ToolTip": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IPriority.cs",
+              "RelativeToolTip": "Lesson_19.07.25\\IPriority.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:31:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRemoteControllable.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IRemoteControllable.cs",
+              "RelativeDocumentMoniker": "Lesson_19.07.25\\IRemoteControllable.cs",
+              "ToolTip": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IRemoteControllable.cs",
+              "RelativeToolTip": "Lesson_19.07.25\\IRemoteControllable.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:03:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceCatalog.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\DeviceCatalog.cs",
+              "RelativeDocumentMoniker": "Lesson_19.07.25\\DeviceCatalog.cs",
+              "ToolTip": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\DeviceCatalog.cs",
+              "RelativeToolTip": "Lesson_19.07.25\\DeviceCatalog.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:12:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IDevice.cs",
+              "RelativeDocumentMoniker": "Lesson_19.07.25\\IDevice.cs",
+              "ToolTip": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\IDevice.cs",
+              "RelativeToolTip": "Lesson_19.07.25\\IDevice.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:07:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_19.07.25\\Program.cs",
+              "ToolTip": "D:\\sharp\\Lesson_19.07.25\\Lesson_19.07.25\\Program.cs",
+              "RelativeToolTip": "Lesson_19.07.25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:03:26.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

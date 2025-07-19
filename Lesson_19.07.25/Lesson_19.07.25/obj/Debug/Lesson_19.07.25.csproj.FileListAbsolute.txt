@@ -1,0 +1,8 @@
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\bin\Debug\Lesson_19.07.25.exe.config
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\bin\Debug\Lesson_19.07.25.exe
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\bin\Debug\Lesson_19.07.25.pdb
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\obj\Debug\Lesson_19.07.25.csproj.AssemblyReference.cache
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\obj\Debug\Lesson_19.07.25.csproj.CoreCompileInputs.cache
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\obj\Debug\Lesson_19.07.25.exe
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\obj\Debug\Lesson_19.07.25.pdb
+D:\sharp\Lesson_19.07.25\Lesson_19.07.25\obj\Debug\Lesson_19.07.25.exe.config
