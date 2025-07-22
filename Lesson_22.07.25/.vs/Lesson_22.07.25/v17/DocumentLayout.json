@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharp\\Lesson_22.07.25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|d:\\sharp\\lesson_22.07.25\\lesson_22.07.25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|solutionrelative:lesson_22.07.25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|d:\\sharp\\lesson_22.07.25\\lesson_22.07.25\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|solutionrelative:lesson_22.07.25\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|d:\\sharp\\lesson_22.07.25\\lesson_22.07.25\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A0C04-B3E5-4699-9F27-A90A12F556C9}|Lesson_22.07.25\\Lesson_22.07.25.csproj|solutionrelative:lesson_22.07.25\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Library.cs",
+              "RelativeDocumentMoniker": "Lesson_22.07.25\\Library.cs",
+              "ToolTip": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Library.cs",
+              "RelativeToolTip": "Lesson_22.07.25\\Library.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:56:51.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Book.cs",
+              "RelativeDocumentMoniker": "Lesson_22.07.25\\Book.cs",
+              "ToolTip": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Book.cs",
+              "RelativeToolTip": "Lesson_22.07.25\\Book.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:18:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_22.07.25\\Program.cs",
+              "ToolTip": "D:\\sharp\\Lesson_22.07.25\\Lesson_22.07.25\\Program.cs",
+              "RelativeToolTip": "Lesson_22.07.25\\Program.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAwwIwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:13:50.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
